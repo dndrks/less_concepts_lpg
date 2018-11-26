@@ -3,6 +3,7 @@ audio variant of 'less concepts', which adapts vactrol + filter code by Alan Gle
 
 to begin :
 - unzip 'less_concepts_lpg.zip'
+- make sure the folder remains named 'less_concepts'
 - load 'less_concepts.maxproj'
 - turn dsp on
 - turn seq on
